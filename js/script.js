@@ -36,4 +36,3 @@ initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
 initFetchBitcoin();
-initAnimacaoScroll();
